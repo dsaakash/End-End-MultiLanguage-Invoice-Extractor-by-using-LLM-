@@ -146,16 +146,9 @@ If you encounter issues:
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email savantaakash322@gmail.com 
 
 
 ## Screenshots
